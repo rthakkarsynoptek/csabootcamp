@@ -2,8 +2,4 @@
 
 This repo contains the source code for the DevOps Challenge.
 
-
-This is testing commit
-
-This is testing
-
+![](https://github.com/rthakkarsynoptek/csabootcamp/workflows/Node%20CI/badge.svg)
