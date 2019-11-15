@@ -7,3 +7,4 @@ This is testing commit
 
 This is testing
 
+![](https://github.com/rthakkarsynoptek/csabootcamp/workflows/.github/workflows/azure.yml/badge.svg)
